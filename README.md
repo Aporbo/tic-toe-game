@@ -1,2 +1,2 @@
 # tic-toe-game
- cse115 project
+ tic-toe game project in c
